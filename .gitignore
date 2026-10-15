@@ -1,0 +1,16 @@
+/ashecode
+config.yaml
+*.exe
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+vendor/
+.idea/
+.vscode/
+.writerHelper/
+.ashecode/
+.claude/
+CLAUDE.md
+docs/
